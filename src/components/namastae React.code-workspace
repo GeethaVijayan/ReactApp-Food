@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "namastae React",
+			"path": "../.."
+		},
+		{
+			"name": "FoodApp",
+			"path": "../../../FoodApp"
+		}
+	],
+	"settings": {}
+}
